@@ -121,6 +121,8 @@ hs_err_pid*
 .gradle
 build/
 
+/video
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
